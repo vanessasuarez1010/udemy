@@ -21,3 +21,8 @@ C001 Hace Clic en Contenedores
     \   Wait Until Element Is Visible  xpath=//*[@id="bigpic"]
     \   Click Element   xpath=//*[@id="header_logo"]/a/img
     Close Browser
+
+C002 Subir a nuevo branchs
+    Open Homepage
+    Close Browser
+
